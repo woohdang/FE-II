@@ -31,7 +31,4 @@ Link con la documentación de los endpoints de la API y su funcionamiento:
 ## Requerimiento no funcional
 - [✅] Desarrollar las validaciones de utils.js para su implementación.
 
-![capture]()
-![capture]()
-![capture]()
 
