@@ -6,5 +6,5 @@ ToDo App Project
 
 ![capture](https://github.com/woohdang/FE-II/blob/main/ToDo-App-main/assets/registro.png)
 
-![capture]()
+![capture](https://github.com/woohdang/FE-II/blob/main/ToDo-App-main/assets/tareas.png)
 
